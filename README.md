@@ -225,5 +225,5 @@ Open `dashboard/online_food_delivery.pbix` in Power BI Desktop. If the data sour
 
 ## Author
 
-**[Your Name]**
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+**[Makesh P]**
+[LinkedIn](https://www.linkedin.com/in/makesh-p-54759b2a9?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [GitHub](https://github.com/Makesh-P)
