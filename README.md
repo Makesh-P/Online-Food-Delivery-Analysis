@@ -5,11 +5,8 @@ An end-to-end analytics project on 100,000 food delivery orders: cleaning and fe
 ![Python](https://img.shields.io/badge/Python-pandas%20%7C%20NumPy-3776AB?logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)
 
 ![Dashboard preview](images/dashboard.png)
-
-*Final dashboard (Chennai selected). Click any city button to filter every visual.*
 
 ---
 
