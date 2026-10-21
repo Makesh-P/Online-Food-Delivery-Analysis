@@ -10,21 +10,6 @@ An end-to-end analytics project on 100,000 food delivery orders: cleaning and fe
 
 ---
 
-## Table of contents
-
-1. [Project overview](#project-overview)
-2. [Dataset](#dataset)
-3. [Workflow](#workflow)
-4. [Data cleaning and feature engineering](#data-cleaning-and-feature-engineering)
-5. [SQL analysis](#sql-analysis)
-6. [Key insights](#key-insights)
-7. [Dashboard](#dashboard)
-8. [Repository structure](#repository-structure)
-9. [How to run](#how-to-run)
-10. [Author](#author)
-
----
-
 ## Project overview
 
 Online food delivery platforms need to understand how customers order, where delivery slows down, which restaurants perform well, and why orders get cancelled. This project answers those questions with a full analytics pipeline:
