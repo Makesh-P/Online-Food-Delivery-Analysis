@@ -76,6 +76,12 @@ python -m pip install -r requirements.txt
 4. Open `EDA.ipynb` to explore the data and `SQL.ipynb` to run the business queries.
 5. Open `Online_Food_Delivery_Dashboard.pbix` in Power BI Desktop and configure the data source if prompted.
 
+## Workflow
+
+```mermaid
+flowchart LR
+   A[Raw CSV Dataset] --> B[Python Data Cleaning<br/>and Feature Engineering] B --> C[(MySQL<br/>orders table)] B --> D[Cleaned CSV] B --> E[EDA Report] C --> F[15 SQL Analyses] D --> G[Power BI Dashboard]
+```
 ## Data Cleaning & Feature Engineering
 
 The cleaning process handles missing values, converts dates, standardises categories, caps high delivery times, limits discounts to order values, removes rows with missing order dates and negative profit margins, and creates these derived fields:
