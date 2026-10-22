@@ -87,7 +87,6 @@ flowchart LR
 ## Dataset
 
 | | |
-|---|---|
 | **Raw size** | 100,000 orders, 25 columns |
 | **Cleaned size** | 71,541 orders |
 | **Period** | 1 Jan 2024 to 30 Dec 2024 |
