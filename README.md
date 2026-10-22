@@ -86,11 +86,14 @@ flowchart LR
 ```
 ## Dataset
 
-| | |
-| **Raw size** | 100,000 orders, 25 columns |
-| **Cleaned size** | 71,541 orders |
-| **Period** | 1 Jan 2024 to 30 Dec 2024 |
-| **Coverage** | 5 cities (Bangalore, Chennai, Delhi, Hyderabad, Mumbai) and 5 cuisines (Indian, Chinese, Mexican, Italian, Arabian) |
+| Attribute        | Details                                      |
+| ---------------- | -------------------------------------------- |
+| **Raw Size**     | 100,000 orders, 25 columns                   |
+| **Cleaned Size** | 71,541 orders                                |
+| **Period**       | 1 January 2024 – 30 December 2024            |
+| **Cities**       | Bangalore, Chennai, Delhi, Hyderabad, Mumbai |
+| **Cuisines**     | Indian, Chinese, Mexican, Italian, Arabian   |
+
 ## Data Cleaning & Feature Engineering
 
 The cleaning process handles missing values, converts dates, standardises categories, caps high delivery times, limits discounts to order values, removes rows with missing order dates and negative profit margins, and creates these derived fields:
