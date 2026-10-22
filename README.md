@@ -80,7 +80,12 @@ python -m pip install -r requirements.txt
 
 ```mermaid
 flowchart LR
-   A[Raw CSV Dataset] --> B[Python Data Cleaning<br/>and Feature Engineering] B --> C[(MySQL<br/>orders table)] B --> D[Cleaned CSV] B --> E[EDA Report] C --> F[15 SQL Analyses] D --> G[Power BI Dashboard]
+   A[Raw CSV Dataset] --> B[Python Data Cleaning<br/>and Feature Engineering]
+   B --> C[(MySQL<br/>orders table)]
+   B --> D[Cleaned CSV]
+   B --> E[EDA Report]
+   C --> F[15 SQL Analyses]
+   D --> G[Power BI Dashboard]
 ```
 ## Data Cleaning & Feature Engineering
 
