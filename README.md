@@ -39,13 +39,10 @@ Online-Food-Delivery-Analysis/
 ├── SQL.ipynb
 ├── Online_Food_Delivery_Dashboard.pbix
 ├── ONLINE_FOOD_DELIVERY_ANALYSIS.csv
-├── requirements.txt
 ├── screenshots/
 │   └── dashboard_overview.png
 └── README.md
 ```
-
-*Make sure these filenames match the files in your repository. Remove the CSV entry if the dataset is not included.*
 
 ## Getting Started
 
