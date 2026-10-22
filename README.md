@@ -86,7 +86,6 @@ flowchart LR
 ```
 ## Dataset
 
-| Attribute        | Details                                      |
 | ---------------- | -------------------------------------------- |
 | **Raw Size**     | 100,000 orders, 25 columns                   |
 | **Cleaned Size** | 71,541 orders                                |
