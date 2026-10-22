@@ -6,7 +6,10 @@ An end-to-end data analytics project that turns online food delivery data into b
 
 This project explores order volume, revenue, customer and restaurant ratings, delivery times, cancellations, discounts, cities and cuisines.
 
-**Workflow:** Raw CSV → Data Cleaning (Python) → Exploratory Data Analysis (Pandas) → MySQL Database → SQL Business Analysis → Power BI Dashboard.
+## Dashboard Preview
+
+![Online Food Delivery Dashboard](screenshots/dashboard_overview.png)
+
 
 ## Features
 
@@ -25,7 +28,7 @@ This project explores order volume, revenue, customer and restaurant ratings, de
 | Data analysis | Pandas, NumPy, Matplotlib, Seaborn |
 | Database | MySQL, SQLAlchemy, PyMySQL |
 | Dashboard | Microsoft Power BI |
-| Tools | Jupyter Notebook, VS Code, MySQL Workbench |
+| Tools |VS Code, MySQL Workbench |
 
 ## Project Structure
 
@@ -94,12 +97,6 @@ SQL queries analyse revenue, orders, customer behaviour, restaurant performance,
 
 The Power BI dashboard includes KPI cards for total revenue, average order value, profit margin, average delivery rating and average delivery time, along with monthly trends and city filters.
 
-## Dashboard Preview
-
-![Online Food Delivery Dashboard](screenshots/dashboard_overview.png)
-
-*Add your dashboard screenshot to the `screenshots` folder and make sure the filename matches the path above.*
-
 ## Key Findings
 
 - About 40% of cancelled orders have no cancellation reason recorded.
@@ -122,7 +119,3 @@ The Power BI dashboard includes KPI cards for total revenue, average order value
 **Makesh P**
 
 [LinkedIn](https://www.linkedin.com/in/makesh-p-54759b2a9) | [GitHub](https://github.com/Makesh-P)
-
-## Acknowledgements
-
-Add the original dataset source and any required attribution here.
