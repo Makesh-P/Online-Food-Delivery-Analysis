@@ -86,12 +86,14 @@ flowchart LR
 ```
 ## Dataset
 
+| Dataset Details  | Details                                      |
 | ---------------- | -------------------------------------------- |
 | **Raw Size**     | 100,000 orders, 25 columns                   |
 | **Cleaned Size** | 71,541 orders                                |
 | **Period**       | 1 January 2024 – 30 December 2024            |
 | **Cities**       | Bangalore, Chennai, Delhi, Hyderabad, Mumbai |
 | **Cuisines**     | Indian, Chinese, Mexican, Italian, Arabian   |
+
 
 ## Data Cleaning & Feature Engineering
 
